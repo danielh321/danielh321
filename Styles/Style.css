@@ -483,15 +483,15 @@ ul{
 @media only screen and (max-device-width: 1080px) {
 
     .active_nav ul :nth-child(1){
-        transform: translateX(-20%);
+        transform: translateX(20%);
         transition: 0.5s;
     }
     .active_nav ul :nth-child(2){
-        transform: translateX(-20%);
+        transform: translateX(20%);
         transition: 0.8s;
     }
     .active_nav ul :nth-child(3){
-        transform: translateX(-20%);
+        transform: translateX(20%);
         transition: 1.1s;
     }
 
